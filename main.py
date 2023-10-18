@@ -10,6 +10,7 @@ print(c)
 print(d)
 print("Hello World")
 print("hello Colab")
+print("Hello Pthon") 
 
 name = input('What is your name?\n')     # \n ---> newline  ---> It causes a line break
 print(name)
